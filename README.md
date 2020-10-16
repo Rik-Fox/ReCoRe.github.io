@@ -9,11 +9,11 @@ Reproducibility, therefore, is the ability for researcher A reading researcher B
 In the Mathsys Doctoral programme (Warwick University, UK) our discipline is, broadly, Mathematics. In mathematical research, code is used to model, describe, calculate and optimise. Our code will perform often complex tasks that are grounded in bleeding edge theory. Robust ,implementable code enables fellow researchers seeking to confirm your results to easily run your initial experiment illuminates. Well written and commented code will enable them to increase their understanding of your work in the process. 
 Reproducible code should therefore be:
 * Readable 
-  - well formatted
-  - following good coding practice
-  - following logical progression
-  - good variable naming convention
-  - proper use of white space.
+  - Well formatted
+  - Following good coding practice
+  - Following logical progression
+  - Good variable naming convention
+  - Proper use of white space.
 * Runnable
   - Easy to reproduce the experimental environment
   - Robust to errors 
@@ -22,9 +22,11 @@ Reproducible code should therefore be:
 * Commented
   - Thorough function descriptions
   - Clear and concise annotations
-  - references to paper where necessary  
+  - References to paper where necessary  
 * Modular
-  - Modularity aids in the readability, runnability and comprehension of the project and allows the creator to re-use and re-implement their code in future.
+  - No long nested for loops
+  - Reduce repetition (unless good motivation for computational efficiency)
+  - Well described functions
 ### Reproducible data
 Not all projects are reproducible, nor should they be. There will be cases where the data is sensitive or other issues mean you are unable to release the project as a whole. For a great many projects you can seek approval to publish the data-set with your code, giving other scientists the opportunity to re-run your experiments. 
 
