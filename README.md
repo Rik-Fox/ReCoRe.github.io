@@ -32,11 +32,11 @@ Not all projects are reproducible, nor should they be. There will be cases where
 
 ### Why write repoducible code?
 There are many reasons why reproducible code is both important and helpful to a variety of people within the academic framework
-* Collaborators
+# Collaborators
 Collaborators will benefit from clear, well described code. They can offer insight, support and at the very least not be emailing you constantly for clarifications. 
-* Self collaboration
+# Self collaboration
 Collaborating with yourself in 6 months time, when you have not looked at your code for that period can be tough. It's a lot easier if your code is clear, well explained and robust.
-* Reviewers
+# Reviewers
 Academic reviewers are becoming more interested in reproducibility. If a reviewer can view your code, run your code and understand your code with relative ease this process will be smoother.
 
 ### When not to write repoducible code
