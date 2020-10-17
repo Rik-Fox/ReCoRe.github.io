@@ -1,4 +1,4 @@
-# ReCoRe -
+# ReCoRe
 ## The Research Code Reproducibility project
 
 ### What is reproducibility
