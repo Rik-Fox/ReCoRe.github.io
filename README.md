@@ -1,4 +1,5 @@
-# ReCoRe - The Research Code Reproducibility project
+# ReCoRe -
+## The Research Code Reproducibility project
 
 ### What is reproducibility
 A foundational principle in the scientific method is the ability to test claims from other scientists by experimentation. Academic publications abound with claims of 'state of the art' techniques and approaches that push societies knowledge forward and it is more important than ever to be able to verify claims by reproducing the results. 
